@@ -1,5 +1,5 @@
 
-## Olá eu sou a Laura Lima, cientista da computação e desenvolvedora back-end!
+## Hi I'm Laura Lima, computer scientist and backend developer!
 <div align="center">
   <a href="https://github.com/LauraLD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraLD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
