@@ -1,11 +1,12 @@
 
-## Hi I'm Laura Lima, computer scientist and backend developer!
+## Hi 👋 I'm Laura Lima, MSc Computer Scientist💻 and Back-End Developer at Stilingue🦉!
 <div align="center">
   <a href="https://github.com/LauraLD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraLD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraLD&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <div style="display: inline_block"><br>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="php-icon" height="60" width="70" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/php-icon.svg">
   <img align="center" alt="python-icon" height="65" width="75" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/python-icon.svg">
   <img align="center" alt="sql-icon" height="53" width="63" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/sql-icon.svg">
