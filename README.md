@@ -7,6 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="linux-icon" height="60" width="70" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/linux-icon.svg">
   <img align="center" alt="php-icon" height="60" width="70" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/php-icon.svg">
   <img align="center" alt="python-icon" height="65" width="75" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/python-icon.svg">
   <img align="center" alt="sql-icon" height="53" width="63" src="https://raw.githubusercontent.com/LauraLD/LauraLD/main/icons-language/sql-icon.svg">
